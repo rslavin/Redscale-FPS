@@ -1,0 +1,6 @@
+middle mouse -> zoom
+right mouse -> camera
+duck is commented out
+added drawHud and hudText
+view now defaults to first-person
+added fps (to give something to show in hud)
